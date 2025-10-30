@@ -38,3 +38,6 @@
 #*.[pP][oO][tT][mM]
 #*.[pP][pP][sS]
 #*.[pP][pP][sS][mM]
+/.vs/SistemaGestionEmpleados
+/bin/Debug/net9.0-windows
+/obj
